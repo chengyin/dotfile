@@ -1,0 +1,3 @@
+[submodule "colorscheme/solarized"]
+	path = colorscheme/solarized
+	url = https://github.com/altercation/solarized

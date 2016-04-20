@@ -1,0 +1,7 @@
+optOut: false
+lastUpdateCheck: 1449266005015
+update:
+  latest: 3.4.0
+  current: 2.0.0
+  type: major
+  name: trash
